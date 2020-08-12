@@ -1,0 +1,32 @@
+.allfooter{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    
+}
+
+.list-unstyled{
+    color: cornsilk;
+    display: inline;
+    margin: 10px 10px;
+    
+}
+
+.centerItem > .title{
+    font-size: 42px;
+}
+.centerItem > .ulItem > li {
+    color: cornsilk;
+
+}
+.ContentFooter> p{
+    margin-top: 18px;
+}
+.footer-copyright{
+    margin-top: 15px;
+}
